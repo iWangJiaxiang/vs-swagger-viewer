@@ -41,6 +41,10 @@
 			{
 				"command": "extension.previewSwagger",
 				"title": "Preview Swagger"
+			},
+			{
+				"command": "extension.bundleSwagger",
+				"title": "Bundle Swagger (Resolve $ref)"
 			}
 		],
 		"configuration": {
